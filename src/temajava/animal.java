@@ -14,12 +14,6 @@ public class animal {
 		System.out.printf("Your animal name is %s\n", getName());
 	}
 
-	public void displayName() {
-		System.out.printf("Your animal name is %s\n", getName());
-	}
-
-
-
 	// add a new comment
 	
 }
